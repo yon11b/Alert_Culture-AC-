@@ -1,0 +1,34 @@
+{
+    "development": {
+      "port": "",
+      "db": {
+        "host": "",
+        "username": "",
+        "password": "",
+        "database": "",
+        "multipleStatements": 1,
+        "timezone": "",
+        "operatorsAliases": 0,
+        "dialect": "",
+        "port": ""
+      },
+      "path": {
+        "index": ""      
+      }  
+    },
+    "production": {
+      "port": "",
+      "db": {
+          "host": "",
+          "port": "",
+          "user": "",
+          "username": "",
+          "password": "",
+          "database": "",
+          "multipleStatements": 1,
+          "timezone": "",
+          "operatorsAliases": 0,
+          "dialect": "mysql"
+      }
+    }
+  }
